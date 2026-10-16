@@ -56,6 +56,7 @@ The converter and its startup shortcut will be removed.
 - The converter monitors your clipboard while running.
 - Only supported X/Twitter and Instagram URLs are converted.
 - This project is not affiliated with Discord, X, Twitter, or Instagram.
+- This project was built with the assistance of AI tools through vibe coding.
 
 ## Credits
 
